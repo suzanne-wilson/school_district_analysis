@@ -28,4 +28,4 @@
 ### Conclusion
 ### The method used to calculate the passing percentages at each school took the ninth-grade Thomas HS students' scores out of the numerators, but not out of the denominators.   This impacted the school's passing percentages and its ranking within the district.  A recommendation for next steps on this project would be as follows:
 ###   	• Recalculate the school-level summaries with an appropriate method that does not count missing values as failures
-###   	• Merge these school-level summary statistics with the student-level data, and recalculate mean scores and passing percentages using subject-level data.
+###   	• Merge these school-level summary statistics with the student-level data, and recalculate mean scores and passing percentages using student-level data.
