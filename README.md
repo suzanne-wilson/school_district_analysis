@@ -25,6 +25,13 @@
 
 ### The average math and reading scores by school spending, school size, and school type did not change.
 
+### Subgroup percent passing changes
+
+### Sizable impacts on passing percentages were observed in the subgroups that included Thomas HS ninth graders:
+### 	• School spending: The $630-$644 subgroup declined from 63% to 56%.
+### 	• School size: overall passing percentage for medium-sized schools declined from 91% to 85%. 
+### 	• School type: The overall passing percentage for charter schools declined from 90% to 87%.
+
 ### Conclusion
 ### The method used to calculate the passing percentages at each school took the ninth-grade Thomas HS students' scores out of the numerators, but not out of the denominators.   This impacted the school's passing percentages and its ranking within the district.  A recommendation for next steps on this project would be as follows:
 ###   	• Recalculate the school-level summaries with an appropriate method that does not count missing values as failures
