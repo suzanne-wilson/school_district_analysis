@@ -1,5 +1,5 @@
 # school_district_analysis
-## Project for Module 4
+# Module 4 Challenge
 ### Thomas HS is a medium-sized charter school that spends $638 per-capita.  An issue was discovered with the calculation of math and reading scores for the ninth graders at Thomas, and the district decided to remove those scores from district-level summary statistics.  
 
 ### After setting to missing the math and reading scores for the Thomas High School ninth graders, impacts on other analyses were noted. The following changes were observed:
